@@ -1,35 +1,35 @@
-"Part";"Value";"Device";"Package";"Description";"";
-"C1";"0.1uF";"CAP0402-CAP";"0402-CAP";"Capacitor";"";
-"C2";"0.1uF";"CAP0402-CAP";"0402-CAP";"Capacitor";"";
-"C3";"0.1uF";"CAP0402-CAP";"0402-CAP";"Capacitor";"";
-"C5";"10uF";"CAP_POL1206";"EIA3216";"Capacitor Polarized";"";
-"F1";"500mA";"PTCSMD";"PTC-1206";"Resettable Fuse PTC";"";
-"JP1";"STAND-OFF";"STAND-OFF";"STAND-OFF";"Stand Off";"";
-"JP2";"POWER_JACKPTH";"POWER_JACKPTH";"POWER_JACK_PTH";"Power Jack";"";
-"JP4";"Power";"M021.3MM-5.08";"1X02_BIG_5.08";"Standard 2-pin 0.1" header. Use with";"";
-"JP5";"";"M04PTH";"1X04";"Header 4";"";
-"JP6";"STAND-OFF";"STAND-OFF";"STAND-OFF";"Stand Off";"";
-"JP7";"STAND-OFF";"STAND-OFF";"STAND-OFF";"Stand Off";"";
-"JP8";"STAND-OFF";"STAND-OFF";"STAND-OFF";"Stand Off";"";
-"JP9";"FIDUCIAL1X2";"FIDUCIAL1X2";"FIDUCIAL-1X2";"Fiducial Alignment Points";"";
-"JP10";"FIDUCIAL1X2";"FIDUCIAL1X2";"FIDUCIAL-1X2";"Fiducial Alignment Points";"";
-"LED1";"Red";"LED0603";"LED-0603";"LEDs";"";
-"LED2";"Green";"LED0603";"LED-0603";"LEDs";"";
-"LED3";"Green";"LED0603";"LED-0603";"LEDs";"";
-"LED4";"Green";"LED0603";"LED-0603";"LEDs";"";
-"P1";"CON-4-";"CON-4-";"MOLEX-22035045";"";"";
-"P2";"CON-4-";"CON-4-";"MOLEX-22035045";"";"";
-"R1";"330";"RESISTOR0402-RES";"0402-RES";"Resistor";"";
-"R2";"330";"RESISTOR0402-RES";"0402-RES";"Resistor";"";
-"R3";"330";"RESISTOR0402-RES";"0402-RES";"Resistor";"";
-"R4";"220";"RESISTOR0402-RES";"0402-RES";"Resistor";"";
-"R5";"1k";"RESISTOR0402-RES";"0402-RES";"Resistor";"";
-"SJ2";"SOLDERJUMPERNC2";"SOLDERJUMPERNC2";"SJ_2S-NOTRACE";"Solder Jumper";"";
-"TP1";"TPSTP13SQ";"TPSTP13SQ";"TP13SQ";"TEST PIN";"";
-"TP2";"TPSTP13SQ";"TPSTP13SQ";"TP13SQ";"TEST PIN";"";
-"TP3";"TPSTP13SQ";"TPSTP13SQ";"TP13SQ";"TEST PIN";"";
-"TP4";"TPSTP13SQ";"TPSTP13SQ";"TP13SQ";"TEST PIN";"";
-"U$1";"CREATIVE_COMMONS";"CREATIVE_COMMONS";"CREATIVE_COMMONS";"";"";
-"U1";"FT232R";"FT232RLSSOP";"SSOP28DB";"USB UART";"";
-"U2";"RS485";"RS485SOIC";"SO08";"";"";
-"X2";"USBSMD";"USBSMD";"USB-MINIB";"USB Connectors";"";
+"Part","Value","Device","Package","Description","",
+"C1","0.1uF","CAP0402-CAP","0402-CAP","Capacitor","",
+"C2","0.1uF","CAP0402-CAP","0402-CAP","Capacitor","",
+"C3","0.1uF","CAP0402-CAP","0402-CAP","Capacitor","",
+"C5","10uF","CAP_POL1206","EIA3216","Capacitor Polarized","",
+"F1","500mA","PTCSMD","PTC-1206","Resettable Fuse PTC","",
+"JP1","STAND-OFF","STAND-OFF","STAND-OFF","Stand Off","",
+"JP2","POWER_JACKPTH","POWER_JACKPTH","POWER_JACK_PTH","Power Jack","",
+"JP4","Power","M021.3MM-5.08","1X02_BIG_5.08","Standard 2-pin 0.1" header. Use with","",
+"JP5","","M04PTH","1X04","Header 4","",
+"JP6","STAND-OFF","STAND-OFF","STAND-OFF","Stand Off","",
+"JP7","STAND-OFF","STAND-OFF","STAND-OFF","Stand Off","",
+"JP8","STAND-OFF","STAND-OFF","STAND-OFF","Stand Off","",
+"JP9","FIDUCIAL1X2","FIDUCIAL1X2","FIDUCIAL-1X2","Fiducial Alignment Points","",
+"JP10","FIDUCIAL1X2","FIDUCIAL1X2","FIDUCIAL-1X2","Fiducial Alignment Points","",
+"LED1","Red","LED0603","LED-0603","LEDs","",
+"LED2","Green","LED0603","LED-0603","LEDs","",
+"LED3","Green","LED0603","LED-0603","LEDs","",
+"LED4","Green","LED0603","LED-0603","LEDs","",
+"P1","CON-4-","CON-4-","MOLEX-22035045","","",
+"P2","CON-4-","CON-4-","MOLEX-22035045","","",
+"R1","330","RESISTOR0402-RES","0402-RES","Resistor","",
+"R2","330","RESISTOR0402-RES","0402-RES","Resistor","",
+"R3","330","RESISTOR0402-RES","0402-RES","Resistor","",
+"R4","220","RESISTOR0402-RES","0402-RES","Resistor","",
+"R5","1k","RESISTOR0402-RES","0402-RES","Resistor","",
+"SJ2","SOLDERJUMPERNC2","SOLDERJUMPERNC2","SJ_2S-NOTRACE","Solder Jumper","",
+"TP1","TPSTP13SQ","TPSTP13SQ","TP13SQ","TEST PIN","",
+"TP2","TPSTP13SQ","TPSTP13SQ","TP13SQ","TEST PIN","",
+"TP3","TPSTP13SQ","TPSTP13SQ","TP13SQ","TEST PIN","",
+"TP4","TPSTP13SQ","TPSTP13SQ","TP13SQ","TEST PIN","",
+"U$1","CREATIVE_COMMONS","CREATIVE_COMMONS","CREATIVE_COMMONS","","",
+"U1","FT232R","FT232RLSSOP","SSOP28DB","USB UART","",
+"U2","RS485","RS485SOIC","SO08","","",
+"X2","USBSMD","USBSMD","USB-MINIB","USB Connectors","",
